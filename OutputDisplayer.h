@@ -3,10 +3,6 @@
 //	Project:		GroupProject
 //	File Name:		OutputDisplayer.h
 //	Description:    Display output to console
-//	Course:			CSCI-4727-940: Operating Systems
-//	Author:			Harrison Pollitte, pollitteh@etsu.edu, Department of Computing, East Tennessee State University
-//	Created:		Saturday, December 5 2020
-//	Copyright:	    Harrison Pollitte 2020
 //
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
