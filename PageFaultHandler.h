@@ -3,10 +3,6 @@
 //	Project:		GroupProject
 //	File Name:		PageFaultHandler.h
 //	Description:    Class for simulating a page table
-//	Course:			CSCI-4727-940: Operating Systems
-//	Author:			Harrison Pollitte, pollitteh@etsu.edu, Department of Computing, East Tennessee State University
-//	Created:		Friday, December 4 2020
-//	Copyright:	    Harrison Pollitte 2020
 //
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
